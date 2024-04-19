@@ -1,0 +1,51 @@
+body {
+    font-size: 20px;
+    background-color:   #ECE6F9
+  ;
+
+}
+
+header,
+footer {
+   
+    background-color:   #97AFC0
+ ;
+}
+
+h1,
+h3 {
+    color: black;
+}
+
+td {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+
+th {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.maintt {
+    margin-top: 20px;
+
+}
+
+.flist {
+    margin-bottom: 20px;
+}
+
+li a {
+    color: black;
+}
+
+hr {
+    color: black;
+}
+
+th {
+    background-color:   #97AFC0
+ ;
+}
